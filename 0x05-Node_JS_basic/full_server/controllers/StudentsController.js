@@ -1,4 +1,3 @@
-
 import readDatabase from '../utils';
 
 class StudentsController {
